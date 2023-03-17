@@ -1,0 +1,28 @@
+.menu-item div{
+    border: 1px solid red; 
+    border-radius: 30px;
+    padding: 5px 20px;
+}
+.menu-item a{
+    text-decoration: none;
+    color: black;
+}
+.active{
+    background: #BB2339;
+}
+.active a{
+    color: white;
+}
+.card-body span{
+    font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+color: #BB2339;
+}
+.all .card:hover{
+    background-color: #BB2339;
+    transform: scale(1.01);
+    transition: .3s ease-in-out;
+}

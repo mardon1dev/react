@@ -1,0 +1,13 @@
+.product-back{
+    background: #F8F8F8;
+}
+
+.product h1{
+    color: brown;
+}
+.card{
+    border: 0;
+}
+.toggle{
+    display: none;
+}
